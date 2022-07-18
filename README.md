@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Golang, VueJS**
 
-- 👨‍💻 All of my projects are available at [niriveral.tech](niriveral.tech)
-
 - 💬 Ask me about **Angular, JavaScript, NodeJS**
 
 - 📫 How to reach me **niriveral@unah.hn**
