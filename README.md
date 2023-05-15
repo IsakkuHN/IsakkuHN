@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, JavaScript, NodeJS**
 
-- 📫 How to reach me **niriveral@unah.hn**
+- 📫 How to reach me **isaacriverahn7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
